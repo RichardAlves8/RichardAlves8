@@ -1,12 +1,12 @@
-<h2 style="text-align:center;">Olá, me chamo Richard 👋 </h2>
-<p style="text-align:center;">📚 Estudante de Ciências da Computação | ⚙️ Processamento de dados | 🔐 Segurança <br>📍 São Paulo - SP</p> <br> <a href="https://oppet.com.br" title="em breve Oppet.net" style="text-align:center;">
+<h2 style="text-align:center;">Olá, me chamo Richard</h2>
+<p style="text-align:center;">📚 Estudante de Ciências da Computação | ⚙️ Processamento de dados <br>📍 São Paulo - SP</p> <br> <a href="https://oppet.com.br" title="em breve Oppet.net" style="text-align:center;">
   https://oppet.com.br
 </a>
 
 
 ---
 ### 💡 Sobre mim
-<p>👀  Atualmente <b>estou aberto a oportunidades</b> e em busca de me inserir no mercado de desenvolvimento.<p>
+<p>Atualmente <b>estou aberto a oportunidades</b> e em busca de me inserir no mercado de desenvolvimento.<p>
 <ul>
 <li>Experiência prática com desenvolvimento de integrações e pipelines no setor de tecnologia da informação. </li>
 <li>Atuei em departamento de Planejamento e Controle de Produção <i>(PCP)</i> com processamento de dados diversificados Financeiros, produção, NF-e, Controle de produção, dados relacionados de BOM (Bil of Materials) por classificações mercadologicas entre outros de diversas fontes.</li><br>
