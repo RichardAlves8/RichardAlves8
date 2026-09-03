@@ -1,6 +1,5 @@
 <h2 style="text-align:center;">Olá, me chamo Richard</h2>
-<p style="text-align:center;">📚 Estudante de Ciências da Computação | ⚙️ Processamento de dados <br>📍 São Paulo - SP</p> <br> <a href="https://oppet.com.br" title="em breve Oppet.net" style="text-align:center;">
-  https://oppet.com.br
+<p style="text-align:center;">📚 Estudante de Ciências da Computação | ⚙️ Processamento de dados <br>📍 São Paulo - SP</p>
 </a>
 
 
