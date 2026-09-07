@@ -1,5 +1,5 @@
 <h2 style="text-align:center;">Olá, me chamo Richard</h2>
-<p style="text-align:center;">📚 Estudante de Ciências da Computação <br>📍 São Paulo - SP</p>
+<p style="text-align:center;">📚 Estudante de Ciências da Computação</p>
 </a>
 
 
