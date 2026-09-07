@@ -7,8 +7,8 @@
 ### 💡 Sobre mim
 <p>Atualmente <b>estou aberto a oportunidades</b> e em busca de me inserir no mercado de desenvolvimento.<p>
 <ul>
-<li>Experiência prática com desenvolvimento no setor de tecnologia da informação. </li>
-<li>Trabalhei em departamento de Planejamento e Controle de Produção <i>(PCP)</i> 
+<li>Experiência prática com desenvolvimento no setor de tecnologia da informação.
+Trabalhei em departamento de Planejamento e Controle de Produção <i>(PCP)</i> 
 com a tarefa de integrar relatórios de planilhas ao  banco de dados, desenvolver algoritmos que pudessem trazer precisão e previsibilidade para o planejamento e controle de produção. após concluir fui promovido ao time de Projetos de TI dando suporte à equipe. Me aproximei de infraestrutura e então passei a aperfeiçoar meu conhecimento e atender demandas de outros setores. Participei de projetos Data-Analytics fazendo analise de requisitos e propostas e visitei eventos como a APAS. 
 </li><br>
 <li>Certificações DataCamp em Docker e Compose, aperfeiçoamentos conceituais e segurança de dados</li>
