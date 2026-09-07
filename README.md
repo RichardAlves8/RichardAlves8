@@ -1,5 +1,5 @@
 <h2 style="text-align:center;">Olá, me chamo Richard</h2>
-<p style="text-align:center;">📚 Estudante de Ciências da Computação | ⚙️ Processamento de dados <br>📍 São Paulo - SP</p>
+<p style="text-align:center;">📚 Estudante de Ciências da Computação <br>📍 São Paulo - SP</p>
 </a>
 
 
@@ -7,10 +7,11 @@
 ### 💡 Sobre mim
 <p>Atualmente <b>estou aberto a oportunidades</b> e em busca de me inserir no mercado de desenvolvimento.<p>
 <ul>
-<li>Experiência prática com desenvolvimento de integrações e pipelines no setor de tecnologia da informação. </li>
-<li>Atuei em departamento de Planejamento e Controle de Produção <i>(PCP)</i> com processamento de dados diversificados Financeiros, produção, NF-e, Controle de produção, dados relacionados de BOM (Bil of Materials) por classificações mercadologicas entre outros de diversas fontes.</li><br>
-<li>Tópicos de Matemática Aplicada, Estruturas de dados, Sistemas operacionais e Redes de computadores</li>
-<li>Certificações DataCamp em qualidade e segurança de dados</li>
+<li>Experiência prática com desenvolvimento no setor de tecnologia da informação. </li>
+<li>Trabalhei em departamento de Planejamento e Controle de Produção <i>(PCP)</i> 
+com a tarefa de integrar relatórios de planilhas ao  banco de dados, desenvolver algoritmos que pudessem trazer precisão e previsibilidade para o planejamento e controle de produção. após concluir fui promovido ao time de Projetos de TI dando suporte à equipe. Me aproximei de infraestrutura e então passei a aperfeiçoar meu conhecimento e atender demandas de outros setores. Participei de projetos Data-Analytics fazendo analise de requisitos e propostas e visitei eventos como a APAS. 
+</li><br>
+<li>Certificações DataCamp em Docker e Compose, aperfeiçoamentos conceituais e segurança de dados</li>
 </ul>
 
 ---
