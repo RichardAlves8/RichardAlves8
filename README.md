@@ -1,6 +1,7 @@
-## <p align="center">👋  Olá, me chamo Richard  
+
 ---
-#### <p align="center">☕️ Sou Análista de Dados e Estudante de Ciência da Computação
+### <p align="center">👋  Olá, me chamo Richard  
+#### <p align="center">☕️ Análista de Dados e Estudante de Ciência da Computação
 </a>
 
 ---
