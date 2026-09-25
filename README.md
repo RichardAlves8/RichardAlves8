@@ -19,7 +19,7 @@ Participei de projetos de Data Analytics e de eventos como a APAS.
 <br>
 
 ---
-## Tecnologias & Ferramentas
+## 🔧 Tecnologias & Ferramentas
 ### Linguagens
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![M](https://img.shields.io/badge/-%20M-1E3A5F?style=flat-square)![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 
@@ -30,8 +30,8 @@ Participei de projetos de Data Analytics e de eventos como a APAS.
 
 ---
 
-## Cursos e certificações 
-### Universidade Anhembi Morumbi (UAM)
+## 🧾Cursos e certificações 
+### ◻️ Universidade Anhembi Morumbi (UAM)
 #### Programação e Soluções Computacionais *(160h)*
  >- Java
  >- Algoritimos e estrutura de dados
@@ -39,7 +39,7 @@ Participei de projetos de Data Analytics e de eventos como a APAS.
  >- UML e Analise de Requisitos
 
 
-### DataCamp
+### ◻️ DataCamp
 #### Data Managament *(8h)*
 >- Introduction to Data Security
 >- Introduction to Data Privacy
