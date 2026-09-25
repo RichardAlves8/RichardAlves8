@@ -58,6 +58,7 @@ Participei de projetos de Data Analytics e de eventos como a APAS.
 - **[Octadesk Data Pipeline](https://github.com/RichardAlves8/Octadesk_ETL)** — ETL para Business Intelligence com SQLite  e CSV, também disponível em WebApp Local.
 - **[SPDF](https://github.com/RichardAlves8/SPDF)** — Gerador de ordens de produção *(tarefa de 1-2 horas para 5 minutos)*.
 - **[Password Manager XLS](https://github.com/RichardAlves8/Password_Manager_XLS)** — Para rotação de credenciais OLE DB em arquivos Excel também dispõe de CSV para BI.
+- **[Gerador de Comandos PBDev (2014)](https://www.youtube.com/watch?v=VhvqLdchkHM)** — Minha primeira solução, desenvolvi quando tinha 14 anos. Gerador de comandos para PointBlank de desenvolvedores (PBDEV).   
 
 ---
 
