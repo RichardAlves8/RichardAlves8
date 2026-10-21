@@ -32,7 +32,7 @@
 ---
 
 ### 👑 Projetos
-- **[SPDF](https://github.com/RichardAlves8/SPDF)** — Gerador de ordens de produção *(tarefa de 1-2 horas para 5 minutos)*.
+- **[SPDF](https://github.com/RichardAlves8/SPDF)** — Gerador de ordens de produção.
 - **[Password Manager XLS](https://github.com/RichardAlves8/Password_Manager_XLS)** — Para rotação de credenciais OLE DB em arquivos Excel também dispõe de CSV para BI.
  
 ---
